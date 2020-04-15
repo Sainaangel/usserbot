@@ -31,26 +31,6 @@ If you find any bugs or have any suggestions then don't hesitate to contact me i
 
 Please head to the wiki on instructions to setting it up!
 
-### Credits:
-
-I would like to thank people who assisted me throughout this project:
-
-* [@YouTwitFace](https://github.com/YouTwitFace)
-* [@TheDevXen](https://github.com/TheDevXen)
-* [@Skittles9823](https://github.com/Skittles9823)
-* [@deletescape](https://github.com/deletescape)
-* [@songotenks69](https://github.com/songotenks69)
-* [@Ovenoboyo](https://github.com/Ovenoboyo)
-* [@SphericalKat](https://github.com/ATechnoHazard)
-* [@rupansh](https://github.com/rupansh)
-* [@zakaryan2004](https://github.com/zakaryan2004)
-* [@kandnub](https://github.com/kandnub)
-* [@pqhaz](https://github.com/pqhaz)
-* [@yshalsager](https://github.com/yshalsager)
-* [@NaytSeyd](https://github.com/NaytSeyd)
-* [@ReversedPosix](https://github.com/ReversedPosix)
-* [@quiec](https://github.com/quiec)
-
 and many more people who aren't mentioned here.
 
 Found Bugs? Create an issue on the issue tracker, or contact me in [Telegram](https://t.me/NightShade).
